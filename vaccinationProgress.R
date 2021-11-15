@@ -71,7 +71,6 @@ token <- create_token(
 
 # Reverse order
 colVec <- c("#F4C095", "#679289","#1D7874","#071E22") 
-colVecCom <- c("#f4c095","#679289","#1d7874","#071e22")
 
 
 # Prepare vaccination data for plotting
